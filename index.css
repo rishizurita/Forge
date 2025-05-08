@@ -58,11 +58,12 @@
   .hero {
     padding: 80px 30px;
     text-align: center;
-    background-image: url('images/Homepagebg.jpg');
+    background-image: linear-gradient(rgba(87, 87, 87, 0.5), rgba(0, 0, 0, 0.5)), url('images/Homepagebg.jpg');
     background-size: cover;
     background-position: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
   }
+  
   
   .hero h1 {
     font-size: 3em;
@@ -175,5 +176,3 @@
         background-color: rgb(255, 255, 255);
       }
     }
-  
-    

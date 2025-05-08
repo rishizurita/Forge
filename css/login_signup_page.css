@@ -227,23 +227,6 @@ color: #3c97bf;
 text-decoration: none;
 }
 
-#goback {
-    position: absolute; /* Position it relative to the nearest positioned ancestor */
-    top: 20px;  /* Adjust the distance from the top of the screen */
-    left: 20px; /* Adjust the distance from the left of the screen */
-    padding: 10px 20px; /* Add padding to make the button bigger */
-    background-color: #444444; /* Example background color */
-    color: white; /* Text color */
-    border: none;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-#goback:hover {
-    background-color: #444444; /* Darken on hover */
-}
-
 header {
     background-color: #ffffff;
     padding: 10px 30px;
