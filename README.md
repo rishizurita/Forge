@@ -1,6 +1,11 @@
 # WELCOME TO FORGE!!!
 
-![Forge Screenshot](https://github.com/user-attachments/assets/1372c39b-ae5b-47c5-94db-3a99ba48e3ba)
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/5062f9fe-d4dc-485f-b826-e2a1a66108f3" />
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/8f4c3e4c-d6b8-415e-a0e3-4ebbf993df74" />
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/ea5596e4-f0f7-4937-a487-25433e439ed0" />
+
+
+
 
 ## Project Description
 <div style="text-align: justify;">
