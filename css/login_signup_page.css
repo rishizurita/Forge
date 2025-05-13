@@ -20,6 +20,9 @@ body {
   padding: 50px 0;
   min-height: 100vh;
   flex-direction: column;
+  background-image: linear-gradient(rgba(83, 83, 83, 0.5), rgba(0, 0, 0, 0.5)), url('../images/loginsignupbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 h1 {
@@ -165,8 +168,8 @@ input {
 }
 
 .overlay {
-  background: -webkit-linear-gradient(to right, #828282, #343434);
-  background: linear-gradient(to right, #828282, #343434);
+  background: -webkit-linear-gradient(to right, #808080, #343434);
+  background: linear-gradient(to right, #808080, #343434);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
