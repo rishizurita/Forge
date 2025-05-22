@@ -1,8 +1,6 @@
 # WELCOME TO FORGE!!!
 
-<img width="1439" alt="image" src="https://github.com/user-attachments/assets/5062f9fe-d4dc-485f-b826-e2a1a66108f3" />
-
-
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/4c700648-6c8c-4e9c-b16f-d224e849628b" />
 
 
 ## Project Description
