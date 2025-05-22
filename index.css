@@ -115,12 +115,12 @@
   .feature-item {
     padding: 20px;
     border-radius: 8px;
-    background-color: #f0f0f0;
+    background-color: #333333;
   }
   
   .feature-item i {
     font-size: 2em;
-    color: #444444;
+    color: #ffffff;
     margin-bottom: 20px;
   }
   
@@ -169,6 +169,15 @@
       font-size: 14px;
       text-decoration: none;
       margin: 15px 0;
+    }
+
+    p {
+      color : #ffffff;
+    }
+
+    h3 {
+      color: #ffffff;
+      margin-bottom: 20px;
     }
 
     @media (max-width: 600px) {
