@@ -12,5 +12,5 @@ It helps you stay organized, focused, and motivated by providing tools to set cl
 
 ## NOTE ❗❗❗
 <div style="text-align: justify;">
-This web application is still on-going. What you see is not the exact output of this product. Stay tuned!
+This web application is still on beta testing. What you see is an on-going production. Stay tuned for more versions and updates!
 </div>  
