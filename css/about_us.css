@@ -42,8 +42,8 @@ header {
   color: #ffffff;
 }
 .logo a {
-  color: #000; /* Ensure the logo text is black or the desired color */
-  text-decoration: none; /* Remove any default underlining */
+  color: #000; 
+  text-decoration: none; 
 }
 .navbar {
   display: flex;
